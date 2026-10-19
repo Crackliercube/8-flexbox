@@ -1,0 +1,28 @@
+html {
+    background-color: blanchedalmond;
+}
+
+body {
+    margin: 0px;
+}
+
+.site-links {
+    list-style-type: none;
+    padding: 10px;
+    display: flex;
+    gap: 10px;
+    background-color: cornsilk;
+}
+
+.site-link {
+    background-color: burlywood;
+    color:black;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.site-link:hover {
+    background-color: cornflowerblue;
+}
